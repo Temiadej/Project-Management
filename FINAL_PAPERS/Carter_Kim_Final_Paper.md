@@ -66,11 +66,11 @@ Unlike a standalone utility app, the local cafe siren order platform relies on a
 
 2.The user community (coffee enthusiasts) For the consumers, the community strategy shifts from "utility" to "discovery and taste." The goal is to turn passive customers into active advocates for local coffee.
    
-* Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience.
+*  Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience.
    
-* Campus ambassadors: we will recruit student ambassadors(from u of i) to promote the app during exam week which is a prime time for caffeine consumption, creating a grassroots movement against franchise dominance. 
+*  Campus ambassadors: we will recruit student ambassadors(from u of i) to promote the app during exam week which is a prime time for caffeine consumption, creating a grassroots movement against franchise dominance. 
   
-* Gamification: we will implement a community wide local loyalty leaderboard, rewarding users who visit the most unique local shops, encouraging exploration over routine. 
+*  Gamification: we will implement a community wide local loyalty leaderboard, rewarding users who visit the most unique local shops, encouraging exploration over routine. 
 
 3.The developer guild (open source contributors) This group focuses on the technical scalability of the platform. 
 
