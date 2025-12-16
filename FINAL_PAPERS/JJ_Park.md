@@ -8,6 +8,7 @@ JJ Park, Fall 2025, https://github.com/jjpark00
 
 UniMarket is a localized, open-source mobile marketplace application designed exclusively for university students. While generic platforms like Facebook Marketplace or Craigslist exist, they lack the safety verification and academic specificity required by students. UniMarket solves this by enforcing .edu email verification and integrating features like ISBN scanning for textbooks. This project utilizes an Agile development framework and open-source governance to foster a student-led developer community. By prioritizing trust, safety, and community contribution, UniMarket aims to create a sustainable circular economy within the campus ecosystem (Sommerville, 2015).
 
+
 **Background & Motivation**
 
 For university students, buying and selling used goods—textbooks, dorm furniture, and electronics—is a semesterly ritual. However, existing platforms present significant friction. Meeting strangers from Craigslist can be unsafe, and general marketplaces lack specific categories for academic needs. According to a survey of campus life, over 60% of students feel uncomfortable meeting strangers off-campus for trade.
@@ -39,6 +40,7 @@ To ensure scalability and ease of contribution for student developers, we select
 __Methodology & Workflow__         
 
 The project follows a semester-aligned Agile methodology (Agile Alliance, 2001). Development is broken into 2-week sprints to accommodate students' academic schedules.
+<img width="161" height="442" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/bce74c1a-a5e7-4ea9-9ce2-0a356427e43a" />
 * **Sprint 1-2:** MVP Development (Auth, Listing, Chat).
 * **Sprint 3:** Beta Testing with a small pilot group (e.g., one dorm).
 * **Sprint 4:** Feedback implementation and full launch.
